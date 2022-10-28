@@ -5,7 +5,7 @@
 Cloning [getharvest.com](https://www.getharvest.com/) was our project for Unit-3 Construct week at Masai School. Our main objective was to complete all main functionality of this website.  
 We completed this project within a 5 days with 4 team members.
 
-- [Click here](https://mellow-belekoy-09bf46.netlify.app/) to preview our project.
+- [Click here](https://spiffy-chaja-91826a.netlify.app/) to preview our project.
 - [Click here](https://medium.com/@vikasdongarwar1012/collaborative-project-getharvest-com-website-clone-9a9d38eae423) to view Blog.
 - [Click here](https://drive.google.com/file/d/1law_foR11ViurLJZeSwif2vNm7WfE7Hi/view?usp=sharing) to watch a brief preview of our project in video format.
 
