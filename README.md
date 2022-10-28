@@ -45,66 +45,53 @@ We completed this project within a 5 days with 4 team members.
 
 ### 1. Landing page
 
-Our landing consists of some of the main functionalities such as location detection, search product part, login, Sign-Up, view profile, add to cart, product preview, increment and decrement of cart items, add and remove items from cart, proceed payment part, sliding images and products and many more.
+Our Landing page userb can see all detailed information about site and customer stories.
 
-![Home page](./bobbi-brown/src/Readme%20Images/1-HomePage.png)
+![Home page](https://miro.medium.com/max/720/1*UkRiwL0CMUNBYWmM3wDHlA.png)
 
-### 2. Registration Page
+### 2. Customers Page
 
-Here in Login part, the user need to fill the correct credentials to log in, and if input type mismatches then it will throw an error to "Enter a valid Credential"
-Once we are done with Login part we will be redirected to OTP page and after submitting correct OTP it will take you to the Home Page.
+Here on integration page user will find some popular apps getharvest working with. User also can search for these integrated apps. 
 
-![Registration Page](./bobbi-brown/src/Readme%20Images/4-Signup_Login.png)
+![Customers Page](https://miro.medium.com/max/720/1*gYuOX-B5v_CgxRYfueFN0g.png)
 
-### 3. Search Part
 
-Here we can search for any specific item to look for its details and for adding it to the cart.
+### 3. Pricing Page
 
-![Search Part](./bobbi-brown/src/Readme%20Images/2-search.png)
+On this page user can apply for subscription and can get discount.
 
-### 4. Pop-Up Part
+![Search Page](https://miro.medium.com/max/720/1*4g6Wq_ClfzCFSMUJEg-sMQ.png)
 
-In this we are having 2 different navbars which toggles after scrolling to a particular height. And we can also See popup functionality on both of the navbars.
+### 4. Signin/Signup page
 
-![Search Page](./bobbi-brown/src/Readme%20Images/3-PopupPart.png)
+Here user need to sign up for further process. If user already sign up then he?she needs to fill only email and password in signin page.
 
-### 5. Map Functionality
+![Search Page](https://miro.medium.com/max/720/1*PJY4tWdxLNnRONcBjzGZXQ.png)
 
-Here in mapping part our location gets fetched automatically after allowing our geological location, or else we can also search for some custom location.
+### 5. Detail provide page
 
-![Search Page](./bobbi-brown/src/Readme%20Images/5-map.png)
+After signup user redirected to this page. Here user will go through some pages where some information about team, projects and projects expenses needs to fill.
 
-### 6. Product Page
+![Website Screenshot](https://miro.medium.com/max/720/1*0OavcyJeQJSwRyWCD9LA2Q.png)
+![Website Screenshot](https://miro.medium.com/max/720/1*EP8tb-BosgTMFirA7qVn8Q.png)
+![Website Screenshot](https://miro.medium.com/max/720/1*WoEkdnxf-j5D5hNLf_gRZQ.png)
 
-This the sample of a product Page for Best Sellers, and similarly we have different pages based on new comings, popularity and many more, here I have added Sorting functionality for each page based on Price, Rating, Name, Category and Best Sellers.
-And apart from this we can also click on any item to see its details and add it to cart.
+### 6. Expenses page
 
-![Search Page](./bobbi-brown/src/Readme%20Images/6-ProductPage.png)
+Here user can track expenses used for their project.
 
-### 7. Single Product Detailed Page
+![Website Screenshot](https://miro.medium.com/max/720/1*iz9ibc1oZs7LRQ6pX-lGMA.png)
 
-Here we can see the details of the selected item just by a single click.
+### 7. Projects page
 
-![Search Page](./bobbi-brown/src/Readme%20Images/7-SingleProductPage.png)
+On clicking "projects" option user will redirected to this page. Here user can track their total expenses, Budget, spent, project progress, clients name, remaining budget and many more.
 
-### 8. Cart page
+![Website Screenshot](https://miro.medium.com/max/720/1*Zlxx9m0IFvziXi-AvlSWkg.png)
 
-After adding all the required grocery items we can go to cart where all selected items will be displayed and here in cart we can increase , decrease or remove items from the cart.
+### 8. Clients page
 
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/8-Cart.png)
-
-### 9. Offers page
-
-Here we can utilize some facility of different offers.
-
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/9-Offers%20_Part.png)
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/11-Offers%20Part.png)
-
-### 10. Payment Checkout Products
-
-After clicking on proceed button of cart, we will be redirected to payment page, where we can select any of the suggested payment method to proceed with the payment. After this we will be asked to enter contact number along with some other details and after verifying the OTP we will be redirected us to the home page.
-
-![Website Screenshot](./bobbi-brown/src/Readme%20Images/10-Paument_Checkout.png)
+On this page user can add new clients and their detail information.
+![Client screenshot](https://miro.medium.com/max/720/1*9vhxYfctmZ7rQnj-z_6dGw.png)
 
 
 ## Challenges
@@ -113,42 +100,28 @@ After clicking on proceed button of cart, we will be redirected to payment page,
 
 2. Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult to find the location and to rename the file.
 
-3. As there were 2 different navbars in this which were toggling after scrolling to a certain height, So it was very difficult to apply the flag on that part in order toggle it.
+3. Because of this was time, expenses and other projects detail managing site it was very hard to us to manipulate data according to real site. We were need to work on lots of pages because every single page holding their unique data with respect to category.
 
-4. We faced challenges with CSS, as few of the team members used Bootstrap and Material-UI and remaining few members unknowingly used the same name class which already existed in bootstrap, which created an unpredictable conflict in the CSS Part.
-
-5. We faced difficulties to manage the routes, page, dependencies to work at a time.
-
-6. One of the main challenge faced by us was while making Popups for navbar and while finding the geological location and fetching an approximate location of used once he allows permission for live location.
+4. Another big challenge was to make the project in time because we had only 5 days to make the full clone of the website and it was the hard work of all the team members and of which we were able to complete the project on time.
  
-7. The main challenge of ours was to run the whole project without rerendering or reloading.
 
 ## Team
 Click on name to visit Github Account
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
-- [Abhinav Roy](https://github.com/abhinavroy121)
-- [Shivanshu Chobey](https://github.com/Shivanshu5998s)
-- [Yogesh Kumar](https://github.com/iYogeshkumar)
-- [Nikesh Borkar](https://github.com/NikeshBorkar)
-- [Rahul Kumar](https://github.com/krRahul10)
+- [Shivam Moudgil](https://github.com/Shivam-Moudgil)
+- [Vikas Dongarwar](https://github.com/vikasdongarwar)
+- [Suraj Gundle](https://github.com/SurajGundle)
+- [Suryakanta Behera](https://github.com/suryakantajsp9)
 
 ## 🔗 Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh-borkar/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-dongarwar-4254b0253/)
 
-
-[MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154/), 
-[Abhinav Roy](https://www.linkedin.com/in/abhinav-roy-35154120a/), 
-[Shivanshu Chobey](https://www.linkedin.com/in/shivanshu5998/), 
-[Yogesh Kumar](https://www.linkedin.com/in/yogeshkumar21101995/), 
-[Nikesh Borkar](https://www.linkedin.com/in/nikesh-borkar/),
-[Rahul Kumar](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 
 ## Authors
 Click the name to visit their Github Profile
-- [Nikesh Borkar](https://github.com/NikeshBorkar)
+- [Vikas Dongarwar](https://github.com/vikasdongarwar)
 
 ## Support
 
-For support, email - [nikeshborkar008@gmail.com](nikeshborkar008@gmail.com)
+For support, email - [vikasdongarwar1012@gamil.com](mailto:vikasdongarwar1012@gmail.comm)
 
