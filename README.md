@@ -15,16 +15,14 @@ We completed this project within a 5 days with 4 team members.
 
 
 ## Features
-- Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
-- Location Fetching using Geographical Location, lat and lng | custom Location Search.
-- Manual slider of products card for different categories.
-- Search bar for finding the product by it's name and viewing it.
-- Product page for different categories.
-- Detailed product preview page
-- Filters for custom price
-- Sort functions for High to Low and Low to High Price, Rating, Bestsellers, Name and Color.
-- Add to cart option for buying products.
-- Payment Page.
+- Landing page with all detailed information about site and customer stories.
+- Integration page shows some popular apps getharvest working with.
+- Searching functionality for finding integrated apps. 
+- Login | Sign Up page for further process.
+- Some pages where user need to fill detail about team members and project they are going to work with.
+- Expenses page where user can track their expenditure for projects work.
+- Project page hepls to track current update about project like budget, spent, progress etc.
+- Client page where user can push details about their new client.
 - Media query for All Size Screen.
 
 ## Credits
