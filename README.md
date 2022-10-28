@@ -1,36 +1,18 @@
-# Clone of bobbibrowncosmetics.com
-![Gif](./bobbi-brown/src/Readme%20Images/Gif.gif)
-[Bobbi Brown Cosmetics](https://www.bobbibrowncosmetics.com/) is a global prestige beauty brand that empowers women to embrace and enhance their individual beauty. 
-It has an Global instant delivery service. Customers of this company use the mobile application or website to order prestige beauty products online.
+# Clone of Getharvest.com
+![logo](https://www.getharvest.com/hubfs/featured-image-home%20%281%29.png)
+[GetHarvest](https://www.getharvest.com/) time tracking makes it easy to capture time, gain insights from past projects, and get paid for your work. By tracking time and expenses in Harvest, user capture critical project data that allows to learn from the past, keep current projects on track, and better estimate future projects.
 
-Cloning [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) was our project for Unit-4 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products, and that too without refreshing or rerendering the website more than once throughout the operation.  
-We completed this project within a week.
+Cloning [getharvest.com](https://www.getharvest.com/) was our project for Unit-3 Construct week at Masai School. Our main objective was to complete all main functionality of this website.  
+We completed this project within a 5 days with 4 team members.
 
-- [Click here](https://bobbi-brown-clone-arshad-abhinav-yogesh-shivanshu-rahul-nikesh.netlify.app/) to preview our project.
-- [MD Arshad Khan](https://medium.com/@mdarshadkhan1998/clone-of-bobbibrowncosmetics-com-5e0baa7bd62b),[Shivanshu Chobey](https://medium.com/@shivanshuchobey5998/bobbibrown-com-website-clone-construct-week-unit-4-237dd9990d7c) Click here to view our Blog.
-- [Click here](https://drive.google.com/file/d/1bGrJOXcpS2e1ZPlwFjyBPsqSXb_5iucg/view?usp=sharing) to watch a brief preview of our project in video format.
-![Logo](./bobbi-brown/src/Readme%20Images/logo.png)
+- [Click here](https://mellow-belekoy-09bf46.netlify.app/) to preview our project.
+- [Click here](https://medium.com/@vikasdongarwar1012/collaborative-project-getharvest-com-website-clone-9a9d38eae423) to view Blog.
+- [Click here](https://drive.google.com/file/d/1law_foR11ViurLJZeSwif2vNm7WfE7Hi/view?usp=sharing) to watch a brief preview of our project in video format.
 
-[bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) is a leading Women Cosmetics Products Ecommerce Website. Bobbi Brown is an American professional make-up artist, author, and the founder of Bobbi Brown Cosmetics. Brown created ten natural-shade lipsticks which according to Entrepreneur “revolutionized the beauty industry”. She has written nine books about beauty and wellness.
 
-## Credits
+[GetHarvest.com](https://www.getharvest.com/)has been serving teams of all sizes, across all types of industries for over 15 years. Today, with more than 70,000 customers, user can be sure that Harvest will work for your their’s unique needs.
 
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/) | [Material-UI](https://v4.mui.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
 
-## Tech Stack
-- React
-- Redux
-- HTML 5
-- CSS 3
-- JavaScript
-- CSS Library — Bootstrap, Tailwind CSS, Material-UI
-- Github
-
-**Client:** [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
 
 ## Features
 - Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
@@ -47,20 +29,18 @@ We completed this project within a week.
 
 ## Credits
 
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
+- Images : [getharvest.com](https://www.getharvest.com/)
+- Content : [getharvest.com](https://www.getharvest.com/)
+- Icons : [Font Awesome](https://fontawesome.com/)
+- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) 
+
+**Client:** [getharvest.com](https://www.getharvest.com/)
 
 ## 🛠 Tech Stack
 
-- React
-- Redux
 - HTML
 - CSS
 - Javascript
-- CSS Library — Bootstrap. …Tailwind CSS. …
 - Github
 
 ## Screenshots of our Project for Overview
