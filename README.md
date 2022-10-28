@@ -123,5 +123,5 @@ Click the name to visit their Github Profile
 
 ## Support
 
-For support, email - [vikasdongarwar1012@gamil.com](mailto:vikasdongarwar1012@gmail.comm)
+For support, email - [vikasdongarwar1012@gmail.com](mailto:vikasdongarwar1012@gmail.com)
 
