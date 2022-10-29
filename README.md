@@ -49,7 +49,7 @@ Our Landing page userb can see all detailed information about site and customer 
 
 ![Home page](https://miro.medium.com/max/720/1*UkRiwL0CMUNBYWmM3wDHlA.png)
 
-### 2. Customers Page
+### 2. Integration Page
 
 Here on integration page user will find some popular apps getharvest working with. User also can search for these integrated apps. 
 
